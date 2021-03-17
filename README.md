@@ -4,7 +4,7 @@ mini projects in ML
 
 <p>Datasets are mainly taken from <b>kaggle</b> and or filtered out
 
-<h4>the algorithns which are used are</h4>
+<h4>the algorithms</h4>
 <ul>
 <li>Linear regression</li>
 <li>logistic regression</li>
